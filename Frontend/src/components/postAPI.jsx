@@ -1,0 +1,1 @@
+export const postAPI = 'http://localhost:6996/users/create'

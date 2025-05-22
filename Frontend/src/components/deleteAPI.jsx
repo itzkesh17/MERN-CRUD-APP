@@ -1,0 +1,1 @@
+export const deleteAPI = 'http://localhost:6996/users/delete'

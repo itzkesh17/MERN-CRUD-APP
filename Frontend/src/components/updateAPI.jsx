@@ -1,0 +1,1 @@
+export const updateAPI = 'http://localhost:6996/users/update'

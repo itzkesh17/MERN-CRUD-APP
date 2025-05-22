@@ -1,0 +1,1 @@
+export const getAPI = 'http://localhost:6996/users/read'
